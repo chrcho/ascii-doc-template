@@ -8,6 +8,4 @@
 
 * A zip archive with all documents is `target/ascii-doc-1.0.zip`
 
-* On windows use this command:
-
-	mvnw.cmd
+* On windows use this command: `mvnw`
