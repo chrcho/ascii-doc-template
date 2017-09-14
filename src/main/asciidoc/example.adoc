@@ -1,0 +1,13 @@
+= My Document's Title
+Name <email@abc.de>
+v1.0, 2017-09-14
+
+This a example main page!
+
+== Level Section Title
+
+=== Level Section Title
+
+==== Level Section Title
+
+include::subdir/example2.adoc[]
