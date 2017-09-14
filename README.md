@@ -8,4 +8,4 @@
 
 * A zip archive with all documents is `target/ascii-doc-template-1.0.zip`
 
-* On windows use this command: `mvnw`
+* On windows use the command `mvnw` to generate the documentation (html)

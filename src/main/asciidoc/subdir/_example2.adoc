@@ -1,0 +1,3 @@
+Content from subdir/_example.adoc
+
+WARNING: Includes can be tricky!
