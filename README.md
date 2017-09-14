@@ -6,6 +6,6 @@
 
 * The generated documents are under `target/generated-docs`
 
-* A zip archive with all documents is `target/ascii-doc-1.0.zip`
+* A zip archive with all documents is `target/ascii-doc-template-1.0.zip`
 
 * On windows use this command: `mvnw`
